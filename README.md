@@ -1,2 +1,4 @@
 # MDI_TP1
 TP maven
+sonar: 63fbee27eda9a07b018330b2852b47682319457a
+jenkins: 4f8d0acf2aa5428a99c90bb90b4b5fe7
